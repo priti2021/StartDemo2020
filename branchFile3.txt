@@ -1,2 +1,4 @@
 branchFile3
 Merge Example with rebase
+Edit
+
